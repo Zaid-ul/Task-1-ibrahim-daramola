@@ -25,3 +25,17 @@ The project is designed to demonstrate basic Python programming concepts and cyb
 
 ```bash
 git clone https://github.com/Zaid-ul/password-strength-checker.git
+cd password-strength-checker
+python password_checker.py
+Enter your password: ********
+Example
+Enter your password: ********
+
+Password Strength: Strong
+Purpose
+
+This project was developed as part of my DecodeLabs Cybersecurity Internship to demonstrate practical Python programming and basic password security concepts.
+
+Author
+
+Zaid-ul
