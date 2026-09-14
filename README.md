@@ -23,10 +23,10 @@ The project is designed to demonstrate basic Python programming concepts and cyb
 
 ### 1. Clone the repository
 
-```bash
-git clone https://github.com/Zaid-ul/password-strength-checker.git
-cd password-strength-checker
-python password_checker.py
+
+git clone https://github.com/Zaid-ul/Password-checker.git
+cd Password-checker
+python Password_checker.py
 Enter your password: ********
 Example
 Enter your password: ********
