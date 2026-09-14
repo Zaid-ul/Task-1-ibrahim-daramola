@@ -1,24 +1,27 @@
 # Password Strength Checker
 
-A Python-based password strength checker developed during my DecodeLabs Cyber Security Internship.
+A Python-based cybersecurity tool that evaluates the strength of a user's password based on common security criteria.
 
 ## Description
 
-This project checks the strength of a password based on different security criteria, including:
+The Password Strength Checker analyzes a password and determines how strong it is by checking factors such as:
 
 - Password length
-- Presence of uppercase letters
-- Presence of numbers
-- Presence of special characters
+- Use of uppercase letters
+- Use of lowercase letters
+- Numbers
+- Special characters
 
-The password is then classified as **Weak**, **Medium**, or **Strong** based on the criteria it meets.
+The project is designed to demonstrate basic Python programming concepts and cybersecurity awareness, particularly the importance of creating strong passwords.
+
+## Technologies Used
+
+- Python 3
+- Regular Expressions (`re` module)
 
 ## How to Run
 
-1. Make sure Python is installed on your computer.
-2. Download or clone this repository.
-3. Open the project folder in VS Code or a terminal.
-4. Run the program using:
+### 1. Clone the repository
 
 ```bash
-python password_strength_checker.py
+git clone https://github.com/Zaid-ul/password-strength-checker.git
